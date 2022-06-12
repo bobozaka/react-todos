@@ -1,0 +1,22 @@
+.inputTaskForm {
+  display: flex;
+  margin-bottom: 20px;
+
+}
+.singleTask {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.singleTaskDone {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 0.5;
+}
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
